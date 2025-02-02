@@ -1,0 +1,16 @@
+{
+    "description": "The frontend for the discord bot app",
+    "domain": "is-cool.dev",
+    "subdomain": "garretapp",
+
+    "owner": {
+        "repo": "https://github.com/dunghoangdacminh/garret-bot-web",
+        "email": "hoangdacminhdung2905@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "us-1.eclipseno.de",
+    },
+
+    "proxied": false
+}
